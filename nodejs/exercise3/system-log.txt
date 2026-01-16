@@ -1,0 +1,389 @@
+System Information:
+    CPU Info: [
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 70404171,
+      "nice": 0,
+      "sys": 137302578,
+      "idle": 505719843,
+      "irq": 9831109
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 65679250,
+      "nice": 0,
+      "sys": 115536375,
+      "idle": 532210921,
+      "irq": 2799640
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 81515265,
+      "nice": 0,
+      "sys": 139283750,
+      "idle": 492627531,
+      "irq": 3456421
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 73806828,
+      "nice": 0,
+      "sys": 134814390,
+      "idle": 504805328,
+      "irq": 2814703
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 71038578,
+      "nice": 0,
+      "sys": 135843031,
+      "idle": 506544937,
+      "irq": 3438218
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 61798468,
+      "nice": 0,
+      "sys": 127167328,
+      "idle": 524460750,
+      "irq": 2853781
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 70716015,
+      "nice": 0,
+      "sys": 147879453,
+      "idle": 494831078,
+      "irq": 3371906
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 62029718,
+      "nice": 0,
+      "sys": 143375281,
+      "idle": 508021546,
+      "irq": 2687750
+    }
+  }
+]
+    Total Memory: 8215150592 bytes
+    Free Memory: 1164640256 bytes
+    Platform: win32
+    Uptime: 1817015.906 seconds
+    -------------------------------
+    
+    Time: 2026-01-16T08:23:09.013Z
+    System Information:
+    CPU Info: [
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 70408625,
+      "nice": 0,
+      "sys": 137313328,
+      "idle": 505749312,
+      "irq": 9831828
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 65683109,
+      "nice": 0,
+      "sys": 115546406,
+      "idle": 532241703,
+      "irq": 2800000
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 81521000,
+      "nice": 0,
+      "sys": 139296296,
+      "idle": 492653921,
+      "irq": 3457078
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 73811796,
+      "nice": 0,
+      "sys": 134826531,
+      "idle": 504832890,
+      "irq": 2814875
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 71043140,
+      "nice": 0,
+      "sys": 135854828,
+      "idle": 506573250,
+      "irq": 3438578
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 61802234,
+      "nice": 0,
+      "sys": 127178390,
+      "idle": 524490593,
+      "irq": 2853937
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 70720609,
+      "nice": 0,
+      "sys": 147893859,
+      "idle": 494856750,
+      "irq": 3372843
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 62033203,
+      "nice": 0,
+      "sys": 143388375,
+      "idle": 508049640,
+      "irq": 2688046
+    }
+  }
+]
+    Total Memory: 8215150592 bytes
+    Free Memory: 1159475200 bytes
+    Platform: win32
+    Uptime: 1817060.578 seconds
+    -------------------------------
+    
+    System Information:
+    CPU Info: [
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 70446156,
+      "nice": 0,
+      "sys": 137386500,
+      "idle": 505859156,
+      "irq": 9836828
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 65723062,
+      "nice": 0,
+      "sys": 115620921,
+      "idle": 532347781,
+      "irq": 2802500
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 81567562,
+      "nice": 0,
+      "sys": 139378203,
+      "idle": 492746000,
+      "irq": 3460062
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 73860765,
+      "nice": 0,
+      "sys": 134907515,
+      "idle": 504923484,
+      "irq": 2816828
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 71073062,
+      "nice": 0,
+      "sys": 135917843,
+      "idle": 506700859,
+      "irq": 3440984
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 61825890,
+      "nice": 0,
+      "sys": 127234671,
+      "idle": 524631203,
+      "irq": 2855734
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 70746921,
+      "nice": 0,
+      "sys": 147956359,
+      "idle": 494988484,
+      "irq": 3376343
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 62057671,
+      "nice": 0,
+      "sys": 143439828,
+      "idle": 508194265,
+      "irq": 2689234
+    }
+  }
+]
+    Total Memory: 8215150592 bytes
+    Free Memory: 761028608 bytes
+    Platform: win32
+    Uptime: 1817281.125 seconds
+    -------------------------------
+    
+    System Information:
+    CPU Info: [
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 70447171,
+      "nice": 0,
+      "sys": 137388500,
+      "idle": 505862156,
+      "irq": 9837000
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 65724421,
+      "nice": 0,
+      "sys": 115622687,
+      "idle": 532350671,
+      "irq": 2802562
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 81568734,
+      "nice": 0,
+      "sys": 139380750,
+      "idle": 492748296,
+      "irq": 3460171
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 73862109,
+      "nice": 0,
+      "sys": 134909640,
+      "idle": 504926031,
+      "irq": 2816890
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 71073781,
+      "nice": 0,
+      "sys": 135919390,
+      "idle": 506704609,
+      "irq": 3441000
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 61826296,
+      "nice": 0,
+      "sys": 127236234,
+      "idle": 524635250,
+      "irq": 2855750
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 70747390,
+      "nice": 0,
+      "sys": 147957578,
+      "idle": 494992812,
+      "irq": 3376375
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
+    "speed": 2496,
+    "times": {
+      "user": 62058015,
+      "nice": 0,
+      "sys": 143440937,
+      "idle": 508198828,
+      "irq": 2689250
+    }
+  }
+]
+    Total Memory: 8215150592 bytes
+    Free Memory: 793161728 bytes
+    Platform: win32
+    Uptime: 1817287.14 seconds
+    -------------------------------
+    
