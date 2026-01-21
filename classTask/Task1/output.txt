@@ -1,0 +1,7 @@
+Available Commands :
+read <file>
+write <file> <content>
+append <file> <content>
+copy <src> <dest>
+delete <file>
+list <dir>
