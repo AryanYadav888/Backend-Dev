@@ -1,3 +1,0 @@
-Node.js makes file handling very easy.
-This text is written automatically by the program.
-Now the program will count the words in this file.
