@@ -1,5 +1,0 @@
-    Log File Analysis
-    total Line : 6
-    error count : 2
-    warning count : 1
-    info count : 3
