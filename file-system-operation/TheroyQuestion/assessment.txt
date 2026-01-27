@@ -1,6 +1,3 @@
-
-Assessment Questions – File System Operations
-
 1. Difference between synchronous and asynchronous file operations:
 Synchronous file operations block the execution of the program until the operation completes, whereas asynchronous file operations do not block execution and allow other tasks to run while the operation is being completed.
 

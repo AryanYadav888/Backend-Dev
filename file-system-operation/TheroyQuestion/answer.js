@@ -1,8 +1,6 @@
 const fs = require("fs");
 
 const content = `
-Assessment Questions – File System Operations
-
 1. Difference between synchronous and asynchronous file operations:
 Synchronous file operations block the execution of the program until the operation completes, whereas asynchronous file operations do not block execution and allow other tasks to run while the operation is being completed.
 
@@ -37,7 +35,7 @@ fs.writeFile("assessment.txt", content, "utf8", (err) => {
         console.error("Error writing file:", err.message);
         return;
     }
-    console.log("✅ Assessment file written successfully");
+    console.log("Assessment file written successfully");
 
     // READ FILE
     fs.readFile("assessment.txt", "utf8", (err, data) => {
@@ -45,7 +43,7 @@ fs.writeFile("assessment.txt", content, "utf8", (err) => {
             console.error("Error reading file:", err.message);
             return;
         }
-        console.log("\n📄 File Content:\n");
+        console.log("\n File Content:\n");
         console.log(data);
     });
 });

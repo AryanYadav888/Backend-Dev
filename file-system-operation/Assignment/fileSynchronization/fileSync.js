@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const[sourcedir , targetdir] = process.argv.slice(2);
+const[srcir , targetdir] = process.argv.slice(2);
 
-if(!sourcedir || !targetdir){
+if(!srcdir || !targetdir){
     console.log("error : sourcedir  destinationdir");
     process.exit(1);
 };
@@ -53,5 +53,5 @@ function SyncDirectories(src,dest){
 
 fs.mkdir(targetdir, { recursive: true }, (err) => {
     if (err) return errorHandle(err);
-    syncDirectories(sourceDir, targetDir);
+    syncDirectories(srcDir, targetDir);
 });
